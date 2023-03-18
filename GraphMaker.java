@@ -11,8 +11,6 @@
 *   and the weight of the edge (a double value).
 *  The method does not check for errors in the file.
 *
-*  @author James W Benham
-*  November 19,2018
 *
 **************************************************************************************************/
 import java.util.*;  // for class Scanner
