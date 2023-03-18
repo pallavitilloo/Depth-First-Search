@@ -4,8 +4,7 @@
 *  from a given source vertex, and prints out the shortest path to every vertex reachable
 *  from the source.
 *
-*  @author James W Benham
-*
+* 
 ************************************************************************************************/
 
 import java.io.*; // for FileNotFoundException
